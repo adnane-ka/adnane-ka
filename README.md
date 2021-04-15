@@ -8,6 +8,6 @@ I'm Adnane.
 ![Adnane Kadri's github stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&count_private=true&show_icons=true)
 
 
-[![Adnane Kadri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adnane-ka)](https://github.com/anuraghazra/github-readme-stats)
+[![Adnane Kadri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adnane-ka)
 
 </center>
