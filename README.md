@@ -6,8 +6,4 @@ I'm Adnane.
 <p align='center'>Here's an automatically generated graph about the tech me 👱.</p>
   
 ![Adnane Kadri's github stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&count_private=true&show_icons=true)
-
-
-[![Adnane Kadri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adnane-ka)
-
 </center>
