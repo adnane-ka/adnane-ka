@@ -1,7 +1,7 @@
 ## Hi there 
 
 ### About Me:
-- 🏦 I'm currently working as a freelancer at upwork , Freelancer & Mostaql .
+- 🏦 I'm currently working as a freelancer at upwork , Freelancer & Mostaql as i help in solving students' problems at [hsoub academy](https://academy.hsoub.com/profile/2507276-adnane-kadri/).
 - 🤔 I use daily ```.php```,``` .js```.
 - 💬 Talk to me about all what is a Laravel or Literature.
 - 💬 We can communicate in multiple languages : English , French , Arabic & Spanish  ,come so un po di italiano X). 
