@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Python and NodeJs :) .
 - 😄 Pronouns: He/Him .
 - 📝 If You liked any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
-- ⚡ Fun fact: I'm obsessed with cleaning codes x) 
 
 <p align="center">
 <code><img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/></code>
@@ -24,6 +23,8 @@
 <code><img src="https://img.icons8.com/dusk/48/000000/html-5.png" alt="HTML5"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/></code>
+<code><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jquery" /></code>
+<code><img src="https://img.icons8.com/windows/32/000000/git-squared.png" alt="git" /></code>  
 </p>
 
 ---
