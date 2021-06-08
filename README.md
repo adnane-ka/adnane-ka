@@ -11,19 +11,19 @@
 - ⚡ Fun fact: I'm obsessed with cleaning codes x) 
 
 <p align="center">
-<img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vueJS"/>
-<img src="https://img.icons8.com/dusk/64/000000/webpack.png" alt="webpack"/>
-<img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"alt="Bootstrap"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="Css"/>
-<img src="https://img.icons8.com/dusk/48/000000/html-5.png" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
+<code><img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vueJS"/></code>
+<code><img src="https://img.icons8.com/dusk/64/000000/webpack.png" alt="webpack"/></code>
+<code><img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/bootstrap.png"alt="Bootstrap"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3.png" alt="Css"/></code>
+<code><img src="https://img.icons8.com/dusk/48/000000/html-5.png" alt="HTML5"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/></code>
 </p>
 
 ---
