@@ -10,7 +10,7 @@
 - 📝 If You liked any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
 <p align="center">
-<code><img width="32" src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/></code>
+<code><img width="32" src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/><small>PHP</small></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/></code>
