@@ -26,6 +26,8 @@
 <code><img width="32" src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jquery" /></code>
 <code><img width="32" src="https://img.icons8.com/windows/32/000000/git-squared.png" alt="git" /></code>  
 <code><img width="32" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" /></code>  
+<code><img width="32" src="https://img.icons8.com/windows/32/000000/vuetify.png" alt="vuetify" /></code>  
+<code><img width="32" src="https://fr.nuxtjs.org/logos/nuxt-icon-white.png" alt="nuxtJS" /></code>
 </p>
 
 ---
