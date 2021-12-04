@@ -1,14 +1,4 @@
 ## Hi there 
-
-### About Me:
-- 🏦 I'm currently working as a freelancer at upwork , Freelancer & Mostaql as i help in solving students' problems at [hsoub academy](https://academy.hsoub.com/profile/2507276-adnane-kadri/).
-- 🤔 I use daily ```.php```,``` .js```.
-- 💬 Talk to me about all what is a Laravel or Literature.
-- 💬 We can communicate in multiple languages : English , French , Arabic & Spanish  ,come so un po di italiano X). 
-- 🌱 I’m currently learning Python and NodeJs :) .
-- 😄 Pronouns: He/Him .
-- 📝 If You liked any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
-
 <p align="center">
 <code><img width="32" src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/></code>
@@ -27,7 +17,8 @@
 <code><img width="32" src="https://img.icons8.com/windows/32/000000/git-squared.png" alt="git" /></code>  
 <code><img width="32" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" /></code>  
 <code><img width="32" src="https://img.icons8.com/windows/32/000000/vuetify.png" alt="vuetify" /></code>  
-<code><img width="32" src="https://fr.nuxtjs.org/logos/nuxt-icon-white.png" alt="nuxtJS" /></code>
+<code><img width="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="NuxtJs" /></code>
+<code><img width="32" src="https://img.icons8.com/color/48/000000/pug.png" /></code>  
 </p>
 
 ---
@@ -38,4 +29,4 @@
 ----
 Credit: [Adnane.K](https://github.com/adnane-ka)
 
-Last Edited on: 30/05/2021
+Last Edited on: 05/12/2021
