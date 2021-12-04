@@ -26,8 +26,6 @@
 ![Adnane's github stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-ka&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/adnane-ka/github-readme-stats)
 
-[![adnane_ka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adnane_ka)](https://github.com/adnane-ka)
-
 ----
 Credit: [Adnane.K](https://github.com/adnane-ka)
 
