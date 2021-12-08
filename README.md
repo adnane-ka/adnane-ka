@@ -25,9 +25,13 @@ All love for Vue & Laravel <3
 </p>
 
 ---
+<div>
 ![Adnane's github stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-ka&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/adnane-ka/github-readme-stats)
+</div>
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-ka&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/adnane-ka/github-readme-stats)
+</div>
 ----
 Credit: [Adnane.K](https://github.com/adnane-ka)
 
