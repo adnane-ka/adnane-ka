@@ -27,7 +27,6 @@ All love for Vue & Laravel <3
 ---
 <p align="center">
 <img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api?username=adnane-ka&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]&count_private=true" align = "center"/>
-<img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-ka&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/adnane-ka/github-readme-stats" align = "center"/>
 </p>
 
 ----
