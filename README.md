@@ -23,5 +23,3 @@ All love for Vue & Laravel <3
 <code><img width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="NuxtJs" /></code>
 <code><img width="30" src="https://img.icons8.com/color/48/000000/pug.png" /></code>  
 </p>
-----
-
