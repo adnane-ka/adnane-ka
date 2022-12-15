@@ -23,3 +23,7 @@ All love for Vue & Laravel <3
 <code><img width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="NuxtJs" /></code>
 <code><img width="30" src="https://img.icons8.com/color/48/000000/pug.png" /></code>  
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&show_icons=true&theme=vue-dark&card_width=900&count_private=true)
+<figure style="margin:10px 0px;"><embed src="https://wakatime.com/share/@adnane_ka/3209bef7-0e8f-491a-abbc-a442a85919be.svg"></embed></figure>
