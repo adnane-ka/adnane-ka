@@ -26,4 +26,4 @@ All love for Vue & Laravel <3
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&show_icons=true&theme=vue-dark&card_width=900&count_private=true)
-<figure style="margin:10px 0px;"><embed src="https://wakatime.com/share/@adnane_ka/3209bef7-0e8f-491a-abbc-a442a85919be.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@adnane_ka/cd04af88-ad43-406d-b8c9-6f253702363f.svg"></embed></figure>
