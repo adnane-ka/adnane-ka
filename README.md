@@ -24,6 +24,6 @@ All love for Vue & Laravel <3
 <code><img width="30" src="https://img.icons8.com/color/48/000000/pug.png" /></code>  
 </p>
 
-
+[![wakatime](https://wakatime.com/badge/user/d5f99472-a425-4be1-8dca-607fa98fec2b.svg)](https://wakatime.com/@d5f99472-a425-4be1-8dca-607fa98fec2b)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnane-ka&show_icons=true&theme=vue-dark&card_width=900&count_private=true)
 <img width="100%" src="https://wakatime.com/share/@adnane_ka/cbde2e2b-2ddf-48c4-86b0-0f6f89fe391b.png" />
